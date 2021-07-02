@@ -1,0 +1,22 @@
+[
+        {"date": "June 1", "affectiveState": "Engaged", "percent": 20},
+        {"date": "June 1", "affectiveState": "Bored", "percent": 30},
+        {"date": "June 1", "affectiveState": "Challenged", "percent": 40},
+        {"date": "June 1", "affectiveState": "Positive", "percent": 10},
+        {"date": "June 2", "affectiveState": "Engaged", "percent": 10},
+        {"date": "June 2", "affectiveState": "Bored", "percent": 20},
+        {"date": "June 2", "affectiveState": "Challenged", "percent": 40},
+        {"date": "June 2", "affectiveState": "Positive", "percent": 30},
+        {"date": "June 3", "affectiveState": "Engaged", "percent": 50},
+        {"date": "June 3", "affectiveState": "Bored", "percent": 10},
+        {"date": "June 3", "affectiveState": "Challenged", "percent": 20},
+        {"date": "June 3", "affectiveState": "Positive", "percent": 20},
+        {"date": "June 4", "affectiveState": "Engaged", "percent": 30},
+        {"date": "June 4", "affectiveState": "Bored", "percent": 10},
+        {"date": "June 4", "affectiveState": "Challenged", "percent": 10},
+        {"date": "June 4", "affectiveState": "Positive", "percent": 50},
+        {"date": "June 5", "affectiveState": "Engaged", "percent": 30},
+        {"date": "June 5", "affectiveState": "Bored", "percent": 30},
+        {"date": "June 5", "affectiveState": "Challenged", "percent": 30},
+        {"date": "June 5", "affectiveState": "Positive", "percent": 10}
+]
