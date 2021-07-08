@@ -3987,6 +3987,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   position: relative;
   display: block;
   padding: 10px 15px;
+  color: black;
+  text-decoration: bold;
 }
 .nav > li > a:hover,
 .nav > li > a:focus {
@@ -4511,7 +4513,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   color: #777;
 }
 .navbar-default .navbar-nav > li > a {
-  color: #777;
+  color: black;
+  font-weight: bold;
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
